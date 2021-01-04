@@ -1,11 +1,12 @@
 package com.study;
 
 
-//   璁＄畻N浠ュ唴闃朵箻
-//   浣跨敤閫掑綊銆侀潪閫掑綊涓ょ鏂瑰紡瀹炵幇
+//计算N以内阶乘
+//使用递归、非递归两种方式实现
+
 
 public class Factorial {
-	// 闈為�掑綊绠楁硶
+	// 非递归算法
 	public static int fac1(int n) {
 		int result = n;
 		while(n>1) {
@@ -15,7 +16,7 @@ public class Factorial {
 		return result;
 	}
 	
-	//閫掑綊绠楁硶
+	//递归算法
 	public static int fac2(int n) {
 		if(n == 1) {
 			return 1;

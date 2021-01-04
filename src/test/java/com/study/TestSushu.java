@@ -1,7 +1,5 @@
 package com.study;
 
-import org.junit.Assert;
-
 public class TestSushu {
 	
 	public void test1() {

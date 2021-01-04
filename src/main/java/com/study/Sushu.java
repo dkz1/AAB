@@ -1,7 +1,7 @@
 package com.study;
 
 public class Sushu {
-	//åˆ¤æ–­101-200ä¹‹é—´æœ‰å¤šå°‘ä¸ªç´ æ•°ï¼Œå¹¶è¾“å‡ºæ‰€æœ‰ç´ æ•°ã€‚
+	//ÅĞ¶Ï101-200Ö®¼äÓĞ¶àÉÙ¸öËØÊı£¬²¢Êä³öËùÓĞËØÊı¡£
 	
 	public static int sushu(int m,int n) {
 		int cnt = 0;
